@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Vijay alias Vj.
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning Python(Pandas,Matplotlib,Seaborn,altair,streamlit), SQL.
+- Hi, I’m Vijay alias Vj.
+- Data Analyst
+- Python(Pandas,Matplotlib,Seaborn,altair,streamlit) | SQL | Excel | PowerBI
 
 <!---
 S-Vijay-vj/S-Vijay-vj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
