@@ -1,5 +1,5 @@
 - Hi, I’m Vijay alias Vj.
-- Data Analyst
+- Data Analytics | Data Science
 - Python(Pandas,Matplotlib,Seaborn,altair,streamlit) | SQL | Excel | PowerBI
 
 <!---
